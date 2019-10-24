@@ -1,4 +1,4 @@
 const getNum = (value) => {
-  return value * 2
+  return value * 3
 }
 module.exports = getNum
