@@ -9,7 +9,7 @@ describe('测试getNum', () => {
     assert.strictEqual(getNum(10), 20)
   });
   it('当参数为10，结果应该为15', () => {
-    assert.notStrictEqual(getNum(10), 15)
+    assert.notStrictEqual(getNum(10), 20)
   });
 });
 

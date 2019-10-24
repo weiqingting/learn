@@ -1,4 +1,4 @@
-
+![Image text](https://api.travis-ci.org/weiqingting/learn.svg?branch=master)
 
 # 1. 断言
 
